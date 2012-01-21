@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "rack-lazy-load"
   gem.homepage = "http://github.com/tuupola/rack-lazy-load"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{Companion middleware for jQuery Lazy Load}
+  gem.description = %Q{Make your website faster by deferring loading of images.}
   gem.email = "tuupola@appelsiini.net"
   gem.authors = ["Mika Tuupola"]
   # dependencies defined in Gemfile
