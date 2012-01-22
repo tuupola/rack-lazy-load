@@ -26,6 +26,7 @@ Gem::Specification.new do |s|
     "VERSION",
     "lib/rack-lazy-load.rb",
     "lib/rack/lazy-load.rb",
+    "rack-lazy-load.gemspec",
     "test/helper.rb",
     "test/test_rack-lazy-load.rb"
   ]
